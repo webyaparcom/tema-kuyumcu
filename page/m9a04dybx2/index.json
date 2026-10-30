@@ -37,11 +37,23 @@
     "ar": "قلادة بميدالية · عيار 22"
   },
   "date": "2026-10-30T18:37:44.978Z",
-  "update": "2026-10-30T19:11:30.195Z",
+  "update": "2026-10-30T22:34:33.619Z",
   "desc": {
-    "ayar": "[object Object]",
-    "agirlik": "[object Object]",
-    "iscilik": "[object Object]"
+    "ayar": {
+      "tr": "22 ayar",
+      "en": "22K",
+      "ar": "عيار 22"
+    },
+    "agirlik": {
+      "tr": "6,00 gr",
+      "en": "6,00 g",
+      "ar": "6,00 غ"
+    },
+    "iscilik": {
+      "tr": "840,00 ₺ (ayrı)",
+      "en": "840,00 TRY (separate)",
+      "ar": "840,00 ₺ (منفصلة)"
+    }
   },
   "price": 18062,
   "stock": 25,

@@ -37,11 +37,23 @@
     "ar": "خاتم سوليتير · عيار 18"
   },
   "date": "2026-10-30T18:37:44.933Z",
-  "update": "2026-10-30T19:11:30.195Z",
+  "update": "2026-10-30T22:34:33.575Z",
   "desc": {
-    "ayar": "[object Object]",
-    "agirlik": "[object Object]",
-    "iscilik": "[object Object]"
+    "ayar": {
+      "tr": "18 ayar",
+      "en": "18K",
+      "ar": "عيار 18"
+    },
+    "agirlik": {
+      "tr": "3,10 gr",
+      "en": "3,10 g",
+      "ar": "3,10 غ"
+    },
+    "iscilik": {
+      "tr": "558,00 ₺ (ayrı)",
+      "en": "558,00 TRY (separate)",
+      "ar": "558,00 ₺ (منفصلة)"
+    }
   },
   "price": 7830,
   "stock": 25,
