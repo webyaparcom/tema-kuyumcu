@@ -1,0 +1,37 @@
+{
+  "id": "y76mx2xwdv",
+  "name": {
+    "tr": "Kolyeler",
+    "en": "Necklaces",
+    "ar": "القلادات"
+  },
+  "description": {
+    "tr": "Kolyeler",
+    "en": "Necklaces",
+    "ar": "القلادات"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kolye",
+  "icon": "diamond",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kolyeler",
+    "en": "Necklaces",
+    "ar": "القلادات"
+  },
+  "date": "2026-10-30T18:37:44.905Z",
+  "update": "2026-10-30T19:11:30.131Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2pomhm3q39",
+  "name": {
+    "tr": "Tek taş yüzük · 18 ayar",
+    "en": "Solitaire ring · 18K",
+    "ar": "خاتم سوليتير · عيار 18"
+  },
+  "description": {
+    "tr": "Klasik altı tırnak montür; ince ve zarif.",
+    "en": "Classic six-claw setting; slim and elegant.",
+    "ar": "تركيب كلاسيكي بستة مخالب؛ نحيف وأنيق."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "tek-tas-yuzuk-18",
+  "icon": "diamond",
+  "category": "heleulhq7c",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 7,
+  "url": "",
+  "text": {
+    "tr": "<p>Klasik altı tırnak montür; ince ve zarif.</p><ul><li>Ayar: 18 ayar</li><li>Ağırlık: 3,10 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.345,75 ₺</li><li>Altın bedeli: 7.272,00 ₺</li><li>İşçilik (ayrı): 558,00 ₺</li><li><strong>Toplam: 7.830,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>Classic six-claw setting; slim and elegant.</p><ul><li>Karat: 18K</li><li>Weight: 3,10 g</li><li>Gold price per gram (for information only): 2.345,75 ₺</li><li>Gold value: 7.272,00 ₺</li><li>Making charge (separate): 558,00 ₺</li><li><strong>Total: 7.830,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>تركيب كلاسيكي بستة مخالب؛ نحيف وأنيق.</p><ul><li>العيار: 18</li><li>الوزن: 3,10غ</li><li>سعر الغرام (للاطلاع فقط): 2.345,75 ₺</li><li>قيمة الذهب: 7.272,00 ₺</li><li>المصنعية (منفصلة): 558,00 ₺</li><li><strong>الإجمالي: 7.830,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Tek taş yüzük · 18 ayar",
+    "en": "Solitaire ring · 18K",
+    "ar": "خاتم سوليتير · عيار 18"
+  },
+  "date": "2026-10-30T18:37:44.933Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 7830,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-yuzuk-1.webp",
+  "badges": [
+    "new"
+  ],
+  "sku": "tek-tas-yuzuk-18"
+}

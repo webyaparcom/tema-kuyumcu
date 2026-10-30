@@ -1,0 +1,39 @@
+{
+  "id": "p9dwusyywf",
+  "name": {
+    "tr": "Yüzük ölçüsü",
+    "en": "Ring size",
+    "ar": "مقاس الخاتم"
+  },
+  "description": {
+    "tr": "Yüzük ölçüsü nasıl bulunur?",
+    "en": "How to find your ring size.",
+    "ar": "كيف تعرف مقاس خاتمك."
+  },
+  "keyword": {
+    "tr": "yüzük ölçüsü",
+    "en": "ring size",
+    "ar": "مقاس الخاتم"
+  },
+  "path": "yuzuk-olcusu",
+  "icon": "straighten",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "80auqt"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yüzük ölçüsü",
+    "en": "Ring size",
+    "ar": "مقاس الخاتم"
+  },
+  "date": "2026-10-30T18:37:45.138Z",
+  "update": "2026-10-30T19:11:30.266Z"
+}

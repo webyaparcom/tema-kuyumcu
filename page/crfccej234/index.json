@@ -1,0 +1,52 @@
+{
+  "id": "crfccej234",
+  "name": {
+    "tr": "Burgu yüzük · 22 ayar",
+    "en": "Twist ring · 22K",
+    "ar": "خاتم مبروم · عيار 22"
+  },
+  "description": {
+    "tr": "Burgu desenli, el işçiliği yüzük.",
+    "en": "A hand-finished ring with a twist pattern.",
+    "ar": "خاتم بنقش مبروم بلمسات يدوية."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "burgu-yuzuk-22",
+  "icon": "diamond",
+  "category": "heleulhq7c",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {
+    "tr": "<p>Burgu desenli, el işçiliği yüzük.</p><ul><li>Ayar: 22 ayar</li><li>Ağırlık: 5,20 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.870,25 ₺</li><li>Altın bedeli: 14.925,00 ₺</li><li>İşçilik (ayrı): 780,00 ₺</li><li><strong>Toplam: 15.705,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>A hand-finished ring with a twist pattern.</p><ul><li>Karat: 22K</li><li>Weight: 5,20 g</li><li>Gold price per gram (for information only): 2.870,25 ₺</li><li>Gold value: 14.925,00 ₺</li><li>Making charge (separate): 780,00 ₺</li><li><strong>Total: 15.705,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>خاتم بنقش مبروم بلمسات يدوية.</p><ul><li>العيار: 22</li><li>الوزن: 5,20غ</li><li>سعر الغرام (للاطلاع فقط): 2.870,25 ₺</li><li>قيمة الذهب: 14.925,00 ₺</li><li>المصنعية (منفصلة): 780,00 ₺</li><li><strong>الإجمالي: 15.705,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Burgu yüzük · 22 ayar",
+    "en": "Twist ring · 22K",
+    "ar": "خاتم مبروم · عيار 22"
+  },
+  "date": "2026-10-30T18:37:44.965Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 15705,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-yuzuk-3.webp",
+  "badges": [],
+  "sku": "burgu-yuzuk-22"
+}

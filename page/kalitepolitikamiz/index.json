@@ -1,0 +1,41 @@
+{
+  "id": "kalitepolitikamiz",
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "description": {
+    "tr": "Kalite politikamız",
+    "en": "Our quality policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kalitepolitikamiz",
+  "icon": "verified",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2>\n<p>Her ürün ayar ve ağırlık sertifikasıyla, tartım ve damga kontrolünden geçerek teslim edilir.</p>",
+    "en": "<h2>Our quality policy</h2>\n<p>Every piece is delivered with a karat and weight certificate after weighing and hallmark checks.</p>",
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>تُسلَّم كل قطعة بشهادة العيار والوزن بعد فحص الوزن والدمغة.</p>"
+  },
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "date": "2026-10-30T18:37:44.380Z",
+  "update": "2026-10-30T19:11:30.328Z"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Zümra Kuyum",
+  "short_name": "Zümra Kuyum",
+  "description": "Zümra Kuyum: 14, 18 ve 22 ayar yüzük, kolye, bilezik ve küpeler; gram, ayar ve işçilik ayrı gösterilir. Gram fiyatları bilgilendirme amaçlıdır. (Demo site)",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7A5C12",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "id": "e78tgqocs5",
+      "name": {
+        "tr": "Damla küpe · 14 ayar",
+        "en": "Drop earrings · 14K",
+        "ar": "أقراط قطرة · عيار 14"
+      },
+      "description": {
+        "tr": "Hafif, günlük ve davet kullanımına uygun.",
+        "en": "Light, for daily and evening wear.",
+        "ar": "خفيفة، تناسب الاستخدام اليومي والسهرات."
+      },
+      "path": "damla-kupe-14",
+      "icon": "diamond",
+      "category": "xm0md6h1e1",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "isckuc1hew",
+      "name": {
+        "tr": "Zincir bileklik · 18 ayar",
+        "en": "Chain bracelet · 18K",
+        "ar": "سوار سلسلة · عيار 18"
+      },
+      "description": {
+        "tr": "Halka zincir örgülü, 19 cm.",
+        "en": "Link-chain weave, 19 cm.",
+        "ar": "بنسج سلسلة حلقية، 19 سم."
+      },
+      "path": "zincir-bileklik-18",
+      "icon": "diamond",
+      "category": "yphzp7ivl3",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "v3jcujk1i1",
+      "name": {
+        "tr": "Kelepçe bilezik · 22 ayar",
+        "en": "Bangle bracelet · 22K",
+        "ar": "سوار كفّ · عيار 22"
+      },
+      "description": {
+        "tr": "Ayarlanabilir kapanışlı, sade kelepçe bilezik.",
+        "en": "A plain bangle with an adjustable closure.",
+        "ar": "سوار بسيط بإغلاق قابل للتعديل."
+      },
+      "path": "kelepce-bilezik-22",
+      "icon": "diamond",
+      "category": "yphzp7ivl3",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "m9a04dybx2",
+      "name": {
+        "tr": "Madalyon kolye · 22 ayar",
+        "en": "Coin pendant necklace · 22K",
+        "ar": "قلادة بميدالية · عيار 22"
+      },
+      "description": {
+        "tr": "Sikke motifli madalyon; zincir dahildir.",
+        "en": "Coin-motif medallion; chain included.",
+        "ar": "ميدالية بنقش عملة؛ السلسلة مشمولة."
+      },
+      "path": "madalyon-kolye-22",
+      "icon": "diamond",
+      "category": "y76mx2xwdv",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "yraqccma4l",
+      "name": {
+        "tr": "İnce zincir kolye · 14 ayar",
+        "en": "Fine chain necklace · 14K",
+        "ar": "قلادة سلسلة رفيعة · عيار 14"
+      },
+      "description": {
+        "tr": "Minik ucu ile günlük kullanıma uygun.",
+        "en": "Suited to daily wear, with a small pendant.",
+        "ar": "مناسبة للاستخدام اليومي مع تعليقة صغيرة."
+      },
+      "path": "ince-zincir-kolye-14",
+      "icon": "diamond",
+      "category": "y76mx2xwdv",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "crfccej234",
+      "name": {
+        "tr": "Burgu yüzük · 22 ayar",
+        "en": "Twist ring · 22K",
+        "ar": "خاتم مبروم · عيار 22"
+      },
+      "description": {
+        "tr": "Burgu desenli, el işçiliği yüzük.",
+        "en": "A hand-finished ring with a twist pattern.",
+        "ar": "خاتم بنقش مبروم بلمسات يدوية."
+      },
+      "path": "burgu-yuzuk-22",
+      "icon": "diamond",
+      "category": "heleulhq7c",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5
+    },
+    {
+      "id": "3yl2iox94y",
+      "name": {
+        "tr": "Taşlı alyans · 18 ayar",
+        "en": "Gem-set band · 18K",
+        "ar": "دبلة مرصّعة · عيار 18"
+      },
+      "description": {
+        "tr": "Tek sıra küçük taşlı, konforlu iç yüzey.",
+        "en": "A single row of small stones with a comfort-fit interior.",
+        "ar": "بصف واحد من الأحجار الصغيرة وسطح داخلي مريح."
+      },
+      "path": "tasli-alyans-18",
+      "icon": "diamond",
+      "category": "heleulhq7c",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6
+    },
+    {
+      "id": "2pomhm3q39",
+      "name": {
+        "tr": "Tek taş yüzük · 18 ayar",
+        "en": "Solitaire ring · 18K",
+        "ar": "خاتم سوليتير · عيار 18"
+      },
+      "description": {
+        "tr": "Klasik altı tırnak montür; ince ve zarif.",
+        "en": "Classic six-claw setting; slim and elegant.",
+        "ar": "تركيب كلاسيكي بستة مخالب؛ نحيف وأنيق."
+      },
+      "path": "tek-tas-yuzuk-18",
+      "icon": "diamond",
+      "category": "heleulhq7c",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7
+    }
+  ],
+  "desc": [
+    {
+      "path": "ayar",
+      "name": {
+        "tr": "Ayar",
+        "en": "Karat",
+        "ar": "العيار"
+      }
+    },
+    {
+      "path": "agirlik",
+      "name": {
+        "tr": "Ağırlık",
+        "en": "Weight",
+        "ar": "الوزن"
+      }
+    },
+    {
+      "path": "iscilik",
+      "name": {
+        "tr": "İşçilik",
+        "en": "Making charge",
+        "ar": "المصنعية"
+      }
+    }
+  ],
+  "desing": {
+    "header": [],
+    "body": [
+      "wzqs32"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}

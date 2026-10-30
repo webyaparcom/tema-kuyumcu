@@ -1,0 +1,54 @@
+{
+  "id": "isckuc1hew",
+  "name": {
+    "tr": "Zincir bileklik · 18 ayar",
+    "en": "Chain bracelet · 18K",
+    "ar": "سوار سلسلة · عيار 18"
+  },
+  "description": {
+    "tr": "Halka zincir örgülü, 19 cm.",
+    "en": "Link-chain weave, 19 cm.",
+    "ar": "بنسج سلسلة حلقية، 19 سم."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "zincir-bileklik-18",
+  "icon": "diamond",
+  "category": "yphzp7ivl3",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {
+    "tr": "<p>Halka zincir örgülü, 19 cm.</p><ul><li>Ayar: 18 ayar</li><li>Ağırlık: 5,50 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.345,75 ₺</li><li>Altın bedeli: 12.902,00 ₺</li><li>İşçilik (ayrı): 825,00 ₺</li><li><strong>Toplam: 13.727,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>Link-chain weave, 19 cm.</p><ul><li>Karat: 18K</li><li>Weight: 5,50 g</li><li>Gold price per gram (for information only): 2.345,75 ₺</li><li>Gold value: 12.902,00 ₺</li><li>Making charge (separate): 825,00 ₺</li><li><strong>Total: 13.727,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>بنسج سلسلة حلقية، 19 سم.</p><ul><li>العيار: 18</li><li>الوزن: 5,50غ</li><li>سعر الغرام (للاطلاع فقط): 2.345,75 ₺</li><li>قيمة الذهب: 12.902,00 ₺</li><li>المصنعية (منفصلة): 825,00 ₺</li><li><strong>الإجمالي: 13.727,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Zincir bileklik · 18 ayar",
+    "en": "Chain bracelet · 18K",
+    "ar": "سوار سلسلة · عيار 18"
+  },
+  "date": "2026-10-30T18:37:45.020Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 13727,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-bilezik-2.webp",
+  "badges": [
+    "new"
+  ],
+  "sku": "zincir-bileklik-18"
+}

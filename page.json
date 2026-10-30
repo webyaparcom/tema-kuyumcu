@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "id": "73xqpbf3ru",
+      "name": {
+        "tr": "Koleksiyonlar",
+        "en": "Collections",
+        "ar": "المجموعات"
+      },
+      "description": {
+        "tr": "Yüzük, kolye, bilezik ve küpe koleksiyonları.",
+        "en": "Ring, necklace, bracelet and earring collections.",
+        "ar": "مجموعات الخواتم والقلادات والأساور والأقراط."
+      },
+      "path": "koleksiyonlar",
+      "icon": "diamond",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fo1y1g"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "c4ueby56h2",
+      "name": {
+        "tr": "Altın fiyatları",
+        "en": "Gold prices",
+        "ar": "أسعار الذهب"
+      },
+      "description": {
+        "tr": "Bilgilendirme amaçlı örnek gram fiyatları.",
+        "en": "Sample gram prices for information only.",
+        "ar": "أسعار غرام تجريبية للاطلاع فقط."
+      },
+      "path": "altin-fiyatlari",
+      "icon": "price_change",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "om7bac",
+          "08y8lv"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "p9dwusyywf",
+      "name": {
+        "tr": "Yüzük ölçüsü",
+        "en": "Ring size",
+        "ar": "مقاس الخاتم"
+      },
+      "description": {
+        "tr": "Yüzük ölçüsü nasıl bulunur?",
+        "en": "How to find your ring size.",
+        "ar": "كيف تعرف مقاس خاتمك."
+      },
+      "path": "yuzuk-olcusu",
+      "icon": "straighten",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "80auqt"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "ts9h7kym1y",
+      "name": {
+        "tr": "Mağazamız",
+        "en": "Our boutique",
+        "ar": "متجرنا"
+      },
+      "description": {
+        "tr": "Mağaza, atölye ve ulaşım.",
+        "en": "Boutique, workshop and directions.",
+        "ar": "المتجر والورشة والوصول."
+      },
+      "path": "magazamiz",
+      "icon": "storefront",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "xzou91",
+          "e2ct01",
+          "e2mp01"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "2t8vbtc1pn",
+      "name": {
+        "tr": "Kişiye özel",
+        "en": "Bespoke",
+        "ar": "حسب الطلب"
+      },
+      "description": {
+        "tr": "Kişiye özel takı tasarımı ve randevu.",
+        "en": "Bespoke jewellery design and appointments.",
+        "ar": "تصميم مجوهرات حسب الطلب والمواعيد."
+      },
+      "path": "kisiye-ozel",
+      "icon": "draw",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "3y8xuz",
+          "fkgtel"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "5isg58kubx",
+      "name": {
+        "tr": "İade ve değişim",
+        "en": "Returns",
+        "ar": "الاسترجاع"
+      },
+      "description": {
+        "tr": "İade ve değişim koşulları.",
+        "en": "Return and exchange terms.",
+        "ar": "شروط الاسترجاع والاستبدال."
+      },
+      "path": "iade-degisim",
+      "icon": "assignment_return",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "filbq1"
+        ],
+        "footer": []
+      },
+      "index": 5
+    }
+  ],
+  "desc": []
+}

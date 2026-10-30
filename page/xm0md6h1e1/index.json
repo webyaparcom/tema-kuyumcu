@@ -1,0 +1,37 @@
+{
+  "id": "xm0md6h1e1",
+  "name": {
+    "tr": "Küpeler",
+    "en": "Earrings",
+    "ar": "الأقراط"
+  },
+  "description": {
+    "tr": "Küpeler",
+    "en": "Earrings",
+    "ar": "الأقراط"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kupe",
+  "icon": "diamond",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Küpeler",
+    "en": "Earrings",
+    "ar": "الأقراط"
+  },
+  "date": "2026-10-30T18:37:44.928Z",
+  "update": "2026-10-30T19:11:30.143Z"
+}

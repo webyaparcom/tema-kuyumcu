@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": "xm0md6h1e1",
+      "name": {
+        "tr": "Küpeler",
+        "en": "Earrings",
+        "ar": "الأقراط"
+      },
+      "description": {
+        "tr": "Küpeler",
+        "en": "Earrings",
+        "ar": "الأقراط"
+      },
+      "path": "kupe",
+      "icon": "diamond",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "yphzp7ivl3",
+      "name": {
+        "tr": "Bilezik ve bileklik",
+        "en": "Bangles and bracelets",
+        "ar": "الأساور"
+      },
+      "description": {
+        "tr": "Bilezik ve bileklik",
+        "en": "Bangles and bracelets",
+        "ar": "الأساور"
+      },
+      "path": "bilezik",
+      "icon": "diamond",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "y76mx2xwdv",
+      "name": {
+        "tr": "Kolyeler",
+        "en": "Necklaces",
+        "ar": "القلادات"
+      },
+      "description": {
+        "tr": "Kolyeler",
+        "en": "Necklaces",
+        "ar": "القلادات"
+      },
+      "path": "kolye",
+      "icon": "diamond",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "heleulhq7c",
+      "name": {
+        "tr": "Yüzükler",
+        "en": "Rings",
+        "ar": "الخواتم"
+      },
+      "description": {
+        "tr": "Yüzükler",
+        "en": "Rings",
+        "ar": "الخواتم"
+      },
+      "path": "yuzuk",
+      "icon": "diamond",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3
+    }
+  ],
+  "desc": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "v3jcujk1i1",
+  "name": {
+    "tr": "Kelepçe bilezik · 22 ayar",
+    "en": "Bangle bracelet · 22K",
+    "ar": "سوار كفّ · عيار 22"
+  },
+  "description": {
+    "tr": "Ayarlanabilir kapanışlı, sade kelepçe bilezik.",
+    "en": "A plain bangle with an adjustable closure.",
+    "ar": "سوار بسيط بإغلاق قابل للتعديل."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kelepce-bilezik-22",
+  "icon": "diamond",
+  "category": "yphzp7ivl3",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<p>Ayarlanabilir kapanışlı, sade kelepçe bilezik.</p><ul><li>Ayar: 22 ayar</li><li>Ağırlık: 12,50 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.870,25 ₺</li><li>Altın bedeli: 35.878,00 ₺</li><li>İşçilik (ayrı): 1.500,00 ₺</li><li><strong>Toplam: 37.378,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>A plain bangle with an adjustable closure.</p><ul><li>Karat: 22K</li><li>Weight: 12,50 g</li><li>Gold price per gram (for information only): 2.870,25 ₺</li><li>Gold value: 35.878,00 ₺</li><li>Making charge (separate): 1.500,00 ₺</li><li><strong>Total: 37.378,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>سوار بسيط بإغلاق قابل للتعديل.</p><ul><li>العيار: 22</li><li>الوزن: 12,50غ</li><li>سعر الغرام (للاطلاع فقط): 2.870,25 ₺</li><li>قيمة الذهب: 35.878,00 ₺</li><li>المصنعية (منفصلة): 1.500,00 ₺</li><li><strong>الإجمالي: 37.378,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Kelepçe bilezik · 22 ayar",
+    "en": "Bangle bracelet · 22K",
+    "ar": "سوار كفّ · عيار 22"
+  },
+  "date": "2026-10-30T18:37:44.999Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 37378,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-bilezik-1.webp",
+  "badges": [],
+  "sku": "kelepce-bilezik-22"
+}

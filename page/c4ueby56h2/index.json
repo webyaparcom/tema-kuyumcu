@@ -1,0 +1,40 @@
+{
+  "id": "c4ueby56h2",
+  "name": {
+    "tr": "Altın fiyatları",
+    "en": "Gold prices",
+    "ar": "أسعار الذهب"
+  },
+  "description": {
+    "tr": "Bilgilendirme amaçlı örnek gram fiyatları.",
+    "en": "Sample gram prices for information only.",
+    "ar": "أسعار غرام تجريبية للاطلاع فقط."
+  },
+  "keyword": {
+    "tr": "altın fiyatları, gram altın",
+    "en": "gold prices, gram gold",
+    "ar": "أسعار الذهب، غرام الذهب"
+  },
+  "path": "altin-fiyatlari",
+  "icon": "price_change",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "om7bac",
+      "08y8lv"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Altın fiyatları",
+    "en": "Gold prices",
+    "ar": "أسعار الذهب"
+  },
+  "date": "2026-10-30T18:37:45.134Z",
+  "update": "2026-10-30T19:11:30.263Z"
+}

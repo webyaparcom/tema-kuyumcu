@@ -1,0 +1,52 @@
+{
+  "id": "3yl2iox94y",
+  "name": {
+    "tr": "Taşlı alyans · 18 ayar",
+    "en": "Gem-set band · 18K",
+    "ar": "دبلة مرصّعة · عيار 18"
+  },
+  "description": {
+    "tr": "Tek sıra küçük taşlı, konforlu iç yüzey.",
+    "en": "A single row of small stones with a comfort-fit interior.",
+    "ar": "بصف واحد من الأحجار الصغيرة وسطح داخلي مريح."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "tasli-alyans-18",
+  "icon": "diamond",
+  "category": "heleulhq7c",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 6,
+  "url": "",
+  "text": {
+    "tr": "<p>Tek sıra küçük taşlı, konforlu iç yüzey.</p><ul><li>Ayar: 18 ayar</li><li>Ağırlık: 3,60 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.345,75 ₺</li><li>Altın bedeli: 8.445,00 ₺</li><li>İşçilik (ayrı): 612,00 ₺</li><li><strong>Toplam: 9.057,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>A single row of small stones with a comfort-fit interior.</p><ul><li>Karat: 18K</li><li>Weight: 3,60 g</li><li>Gold price per gram (for information only): 2.345,75 ₺</li><li>Gold value: 8.445,00 ₺</li><li>Making charge (separate): 612,00 ₺</li><li><strong>Total: 9.057,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>بصف واحد من الأحجار الصغيرة وسطح داخلي مريح.</p><ul><li>العيار: 18</li><li>الوزن: 3,60غ</li><li>سعر الغرام (للاطلاع فقط): 2.345,75 ₺</li><li>قيمة الذهب: 8.445,00 ₺</li><li>المصنعية (منفصلة): 612,00 ₺</li><li><strong>الإجمالي: 9.057,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Taşlı alyans · 18 ayar",
+    "en": "Gem-set band · 18K",
+    "ar": "دبلة مرصّعة · عيار 18"
+  },
+  "date": "2026-10-30T18:37:44.951Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 9057,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-yuzuk-2.webp",
+  "badges": [],
+  "sku": "tasli-alyans-18"
+}
