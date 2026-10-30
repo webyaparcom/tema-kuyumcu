@@ -1,0 +1,37 @@
+{
+  "id": "yphzp7ivl3",
+  "name": {
+    "tr": "Bilezik ve bileklik",
+    "en": "Bangles and bracelets",
+    "ar": "الأساور"
+  },
+  "description": {
+    "tr": "Bilezik ve bileklik",
+    "en": "Bangles and bracelets",
+    "ar": "الأساور"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "bilezik",
+  "icon": "diamond",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Bilezik ve bileklik",
+    "en": "Bangles and bracelets",
+    "ar": "الأساور"
+  },
+  "date": "2026-10-30T18:37:44.921Z",
+  "update": "2026-10-30T19:11:30.140Z"
+}

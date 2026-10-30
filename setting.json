@@ -1,0 +1,63 @@
+{
+  "order": true,
+  "user": false,
+  "description": {
+    "tr": "Zümra Kuyum: 14, 18 ve 22 ayar yüzük, kolye, bilezik ve küpeler; gram, ayar ve işçilik ayrı gösterilir. Gram fiyatları bilgilendirme amaçlıdır. (Demo site)",
+    "en": "Zumra Kuyum: 14, 18 and 22 karat rings, necklaces, bracelets and earrings; weight, karat and making charge are shown separately. Gram prices are for information only. (Demo site)",
+    "ar": "زمرة كويوم: خواتم وقلادات وأساور وأقراط بعيار 14 و18 و22؛ يُعرض الوزن والعيار والمصنعية منفصلة. أسعار الغرام للاطلاع فقط. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "kuyumcu, altın, yüzük, kolye, bilezik",
+    "en": "jeweller, gold, ring, necklace, bracelet",
+    "ar": "صائغ، ذهب، خاتم، قلادة، سوار"
+  },
+  "category": "Eticaret",
+  "name": "Zümra Kuyum",
+  "domain": "kuyumcu.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "cormorant-garamond",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#7A5C12",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "2px",
+    "--mx-radius-md": "4px",
+    "--mx-radius-lg": "4px",
+    "--mx-radius-xl": "4px"
+  },
+  "eticaret": true,
+  "siteType": "eticaret",
+  "modSepet": true,
+  "modSiparis": true,
+  "modOdeme": true,
+  "currency": "₺",
+  "icon": "icon.png",
+  "modKargo": true,
+  "modUyeler": true,
+  "modUyeAdres": true
+}

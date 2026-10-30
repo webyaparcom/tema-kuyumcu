@@ -1,0 +1,40 @@
+{
+  "id": "2t8vbtc1pn",
+  "name": {
+    "tr": "Kişiye özel",
+    "en": "Bespoke",
+    "ar": "حسب الطلب"
+  },
+  "description": {
+    "tr": "Kişiye özel takı tasarımı ve randevu.",
+    "en": "Bespoke jewellery design and appointments.",
+    "ar": "تصميم مجوهرات حسب الطلب والمواعيد."
+  },
+  "keyword": {
+    "tr": "kişiye özel takı",
+    "en": "bespoke jewellery",
+    "ar": "مجوهرات حسب الطلب"
+  },
+  "path": "kisiye-ozel",
+  "icon": "draw",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "3y8xuz",
+      "fkgtel"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Kişiye özel",
+    "en": "Bespoke",
+    "ar": "حسب الطلب"
+  },
+  "date": "2026-10-30T18:37:45.166Z",
+  "update": "2026-10-30T19:11:30.271Z"
+}

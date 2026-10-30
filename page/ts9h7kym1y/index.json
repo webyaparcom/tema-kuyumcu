@@ -1,0 +1,41 @@
+{
+  "id": "ts9h7kym1y",
+  "name": {
+    "tr": "Mağazamız",
+    "en": "Our boutique",
+    "ar": "متجرنا"
+  },
+  "description": {
+    "tr": "Mağaza, atölye ve ulaşım.",
+    "en": "Boutique, workshop and directions.",
+    "ar": "المتجر والورشة والوصول."
+  },
+  "keyword": {
+    "tr": "mağaza, atölye",
+    "en": "boutique, workshop",
+    "ar": "متجر، ورشة"
+  },
+  "path": "magazamiz",
+  "icon": "storefront",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "xzou91",
+      "e2ct01",
+      "e2mp01"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Mağazamız",
+    "en": "Our boutique",
+    "ar": "متجرنا"
+  },
+  "date": "2026-10-30T18:37:45.155Z",
+  "update": "2026-10-30T19:11:30.268Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "e78tgqocs5",
+  "name": {
+    "tr": "Damla küpe · 14 ayar",
+    "en": "Drop earrings · 14K",
+    "ar": "أقراط قطرة · عيار 14"
+  },
+  "description": {
+    "tr": "Hafif, günlük ve davet kullanımına uygun.",
+    "en": "Light, for daily and evening wear.",
+    "ar": "خفيفة، تناسب الاستخدام اليومي والسهرات."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "damla-kupe-14",
+  "icon": "diamond",
+  "category": "xm0md6h1e1",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<p>Hafif, günlük ve davet kullanımına uygun.</p><ul><li>Ayar: 14 ayar</li><li>Ağırlık: 3,20 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 1.830,00 ₺</li><li>Altın bedeli: 5.856,00 ₺</li><li>İşçilik (ayrı): 512,00 ₺</li><li><strong>Toplam: 6.368,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>Light, for daily and evening wear.</p><ul><li>Karat: 14K</li><li>Weight: 3,20 g</li><li>Gold price per gram (for information only): 1.830,00 ₺</li><li>Gold value: 5.856,00 ₺</li><li>Making charge (separate): 512,00 ₺</li><li><strong>Total: 6.368,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>خفيفة، تناسب الاستخدام اليومي والسهرات.</p><ul><li>العيار: 14</li><li>الوزن: 3,20غ</li><li>سعر الغرام (للاطلاع فقط): 1.830,00 ₺</li><li>قيمة الذهب: 5.856,00 ₺</li><li>المصنعية (منفصلة): 512,00 ₺</li><li><strong>الإجمالي: 6.368,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Damla küpe · 14 ayar",
+    "en": "Drop earrings · 14K",
+    "ar": "أقراط قطرة · عيار 14"
+  },
+  "date": "2026-10-30T18:37:45.037Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 6368,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-kupe.webp",
+  "badges": [],
+  "sku": "damla-kupe-14"
+}

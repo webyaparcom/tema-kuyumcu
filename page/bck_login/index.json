@@ -1,0 +1,38 @@
+{
+  "id": "bck_login",
+  "name": {
+    "tr": "Giriş",
+    "en": "Sign in",
+    "ar": "تسجيل الدخول"
+  },
+  "description": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "login",
+  "icon": "login",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "i8n1gi"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "title": {
+    "tr": "Giriş",
+    "en": "Sign in",
+    "ar": "تسجيل الدخول"
+  },
+  "date": "2026-10-30T18:37:44.509Z",
+  "update": "2026-10-30T19:11:30.206Z"
+}

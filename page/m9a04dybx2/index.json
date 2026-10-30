@@ -1,0 +1,54 @@
+{
+  "id": "m9a04dybx2",
+  "name": {
+    "tr": "Madalyon kolye · 22 ayar",
+    "en": "Coin pendant necklace · 22K",
+    "ar": "قلادة بميدالية · عيار 22"
+  },
+  "description": {
+    "tr": "Sikke motifli madalyon; zincir dahildir.",
+    "en": "Coin-motif medallion; chain included.",
+    "ar": "ميدالية بنقش عملة؛ السلسلة مشمولة."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "madalyon-kolye-22",
+  "icon": "diamond",
+  "category": "y76mx2xwdv",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {
+    "tr": "<p>Sikke motifli madalyon; zincir dahildir.</p><ul><li>Ayar: 22 ayar</li><li>Ağırlık: 6,00 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.870,25 ₺</li><li>Altın bedeli: 17.222,00 ₺</li><li>İşçilik (ayrı): 840,00 ₺</li><li><strong>Toplam: 18.062,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>Coin-motif medallion; chain included.</p><ul><li>Karat: 22K</li><li>Weight: 6,00 g</li><li>Gold price per gram (for information only): 2.870,25 ₺</li><li>Gold value: 17.222,00 ₺</li><li>Making charge (separate): 840,00 ₺</li><li><strong>Total: 18.062,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>ميدالية بنقش عملة؛ السلسلة مشمولة.</p><ul><li>العيار: 22</li><li>الوزن: 6,00غ</li><li>سعر الغرام (للاطلاع فقط): 2.870,25 ₺</li><li>قيمة الذهب: 17.222,00 ₺</li><li>المصنعية (منفصلة): 840,00 ₺</li><li><strong>الإجمالي: 18.062,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Madalyon kolye · 22 ayar",
+    "en": "Coin pendant necklace · 22K",
+    "ar": "قلادة بميدالية · عيار 22"
+  },
+  "date": "2026-10-30T18:37:44.978Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 18062,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-kolye-2.webp",
+  "badges": [
+    "sale"
+  ],
+  "sku": "madalyon-kolye-22"
+}

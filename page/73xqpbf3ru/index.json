@@ -1,0 +1,39 @@
+{
+  "id": "73xqpbf3ru",
+  "name": {
+    "tr": "Koleksiyonlar",
+    "en": "Collections",
+    "ar": "المجموعات"
+  },
+  "description": {
+    "tr": "Yüzük, kolye, bilezik ve küpe koleksiyonları.",
+    "en": "Ring, necklace, bracelet and earring collections.",
+    "ar": "مجموعات الخواتم والقلادات والأساور والأقراط."
+  },
+  "keyword": {
+    "tr": "altın, yüzük, kolye",
+    "en": "gold, ring, necklace",
+    "ar": "ذهب، خاتم، قلادة"
+  },
+  "path": "koleksiyonlar",
+  "icon": "diamond",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "fo1y1g"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Koleksiyonlar",
+    "en": "Collections",
+    "ar": "المجموعات"
+  },
+  "date": "2026-10-30T18:37:45.131Z",
+  "update": "2026-10-30T19:11:30.257Z"
+}

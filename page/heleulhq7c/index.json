@@ -1,0 +1,37 @@
+{
+  "id": "heleulhq7c",
+  "name": {
+    "tr": "Yüzükler",
+    "en": "Rings",
+    "ar": "الخواتم"
+  },
+  "description": {
+    "tr": "Yüzükler",
+    "en": "Rings",
+    "ar": "الخواتم"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "yuzuk",
+  "icon": "diamond",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Yüzükler",
+    "en": "Rings",
+    "ar": "الخواتم"
+  },
+  "date": "2026-10-30T18:37:44.892Z",
+  "update": "2026-10-30T19:11:30.120Z"
+}

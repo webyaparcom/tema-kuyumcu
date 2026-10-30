@@ -1,0 +1,39 @@
+{
+  "id": "5isg58kubx",
+  "name": {
+    "tr": "İade ve değişim",
+    "en": "Returns",
+    "ar": "الاسترجاع"
+  },
+  "description": {
+    "tr": "İade ve değişim koşulları.",
+    "en": "Return and exchange terms.",
+    "ar": "شروط الاسترجاع والاستبدال."
+  },
+  "keyword": {
+    "tr": "iade, değişim",
+    "en": "returns, exchange",
+    "ar": "استرجاع، استبدال"
+  },
+  "path": "iade-degisim",
+  "icon": "assignment_return",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "filbq1"
+    ],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "İade ve değişim",
+    "en": "Returns",
+    "ar": "الاسترجاع"
+  },
+  "date": "2026-10-30T18:37:45.173Z",
+  "update": "2026-10-30T19:11:30.273Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "yraqccma4l",
+  "name": {
+    "tr": "İnce zincir kolye · 14 ayar",
+    "en": "Fine chain necklace · 14K",
+    "ar": "قلادة سلسلة رفيعة · عيار 14"
+  },
+  "description": {
+    "tr": "Minik ucu ile günlük kullanıma uygun.",
+    "en": "Suited to daily wear, with a small pendant.",
+    "ar": "مناسبة للاستخدام اليومي مع تعليقة صغيرة."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "ince-zincir-kolye-14",
+  "icon": "diamond",
+  "category": "y76mx2xwdv",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {
+    "tr": "<p>Minik ucu ile günlük kullanıma uygun.</p><ul><li>Ayar: 14 ayar</li><li>Ağırlık: 2,80 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 1.830,00 ₺</li><li>Altın bedeli: 5.124,00 ₺</li><li>İşçilik (ayrı): 448,00 ₺</li><li><strong>Toplam: 5.572,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>Suited to daily wear, with a small pendant.</p><ul><li>Karat: 14K</li><li>Weight: 2,80 g</li><li>Gold price per gram (for information only): 1.830,00 ₺</li><li>Gold value: 5.124,00 ₺</li><li>Making charge (separate): 448,00 ₺</li><li><strong>Total: 5.572,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>مناسبة للاستخدام اليومي مع تعليقة صغيرة.</p><ul><li>العيار: 14</li><li>الوزن: 2,80غ</li><li>سعر الغرام (للاطلاع فقط): 1.830,00 ₺</li><li>قيمة الذهب: 5.124,00 ₺</li><li>المصنعية (منفصلة): 448,00 ₺</li><li><strong>الإجمالي: 5.572,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "İnce zincir kolye · 14 ayar",
+    "en": "Fine chain necklace · 14K",
+    "ar": "قلادة سلسلة رفيعة · عيار 14"
+  },
+  "date": "2026-10-30T18:37:44.973Z",
+  "update": "2026-10-30T19:11:30.195Z",
+  "desc": {
+    "ayar": "[object Object]",
+    "agirlik": "[object Object]",
+    "iscilik": "[object Object]"
+  },
+  "price": 5572,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-urun-kolye-1.webp",
+  "badges": [],
+  "sku": "ince-zincir-kolye-14"
+}
