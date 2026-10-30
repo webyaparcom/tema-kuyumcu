@@ -37,11 +37,23 @@
     "ar": "قلادة سلسلة رفيعة · عيار 14"
   },
   "date": "2026-10-30T18:37:44.973Z",
-  "update": "2026-10-30T19:11:30.195Z",
+  "update": "2026-10-30T22:34:33.612Z",
   "desc": {
-    "ayar": "[object Object]",
-    "agirlik": "[object Object]",
-    "iscilik": "[object Object]"
+    "ayar": {
+      "tr": "14 ayar",
+      "en": "14K",
+      "ar": "عيار 14"
+    },
+    "agirlik": {
+      "tr": "2,80 gr",
+      "en": "2,80 g",
+      "ar": "2,80 غ"
+    },
+    "iscilik": {
+      "tr": "448,00 ₺ (ayrı)",
+      "en": "448,00 TRY (separate)",
+      "ar": "448,00 ₺ (منفصلة)"
+    }
   },
   "price": 5572,
   "stock": 25,

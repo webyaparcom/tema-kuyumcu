@@ -37,11 +37,23 @@
     "ar": "سوار كفّ · عيار 22"
   },
   "date": "2026-10-30T18:37:44.999Z",
-  "update": "2026-10-30T19:11:30.195Z",
+  "update": "2026-10-30T22:34:33.626Z",
   "desc": {
-    "ayar": "[object Object]",
-    "agirlik": "[object Object]",
-    "iscilik": "[object Object]"
+    "ayar": {
+      "tr": "22 ayar",
+      "en": "22K",
+      "ar": "عيار 22"
+    },
+    "agirlik": {
+      "tr": "12,50 gr",
+      "en": "12,50 g",
+      "ar": "12,50 غ"
+    },
+    "iscilik": {
+      "tr": "1.500,00 ₺ (ayrı)",
+      "en": "1.500,00 TRY (separate)",
+      "ar": "1.500,00 ₺ (منفصلة)"
+    }
   },
   "price": 37378,
   "stock": 25,

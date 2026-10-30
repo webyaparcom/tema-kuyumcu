@@ -451,9 +451,9 @@
           "ar": "تم استلام اشتراكك في النشرة. شكرًا لك!"
         },
         "copyright": {
-          "tr": "Marka Adı © 2026 — demo site.",
-          "en": "Brand Name © 2026 — demo site.",
-          "ar": "اسم العلامة © 2026 — موقع تجريبي."
+          "tr": "Zümra Kuyum © 2026 — demo site.",
+          "en": "Zumra Kuyum © 2026 — demo site.",
+          "ar": "Zümra Kuyum © 2026 — موقع تجريبي."
         }
       },
       "version": "2.0.0",
@@ -519,12 +519,12 @@
         ],
         "features": [
           {
-            "id": "feat_original",
-            "icon": "workspace_premium",
+            "id": "feat_info",
+            "icon": "fact_check",
             "label": {
-              "tr": "Orijinal ürün güvencesi",
-              "en": "Original product guarantee",
-              "ar": "ضمان المنتج الأصلي"
+              "tr": "Açık ürün bilgisi",
+              "en": "Clear product information",
+              "ar": "معلومات منتج واضحة"
             }
           },
           {
@@ -540,9 +540,9 @@
             "id": "feat_shipping",
             "icon": "local_shipping",
             "label": {
-              "tr": "Belirli tutar üzeri ücretsiz kargo",
-              "en": "Free shipping over a set amount",
-              "ar": "شحن مجاني فوق مبلغ محدد"
+              "tr": "500 ₺ üzeri ücretsiz kargo",
+              "en": "Free shipping over 500 ₺",
+              "ar": "شحن مجاني فوق 500 ليرة"
             }
           }
         ],
