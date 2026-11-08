@@ -32,5 +32,10 @@
   "category": "e-commerce",
   "description": "Journal 3 tarzı tab vitrin: 4 sekme (Yeni Gelenler / Seçtiklerimiz / Çok Satanlar / Çok Sevilenler), 4 kolon ürün grid, rozet, yıldız, hover aksiyonları (favori/karşılaştır/hızlı görünüm placeholder). Canlı products.json okur.",
   "version": "1.0.0",
-  "icon": "view_module"
+  "icon": "view_module",
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "desing/data"
+  }
 }

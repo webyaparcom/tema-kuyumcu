@@ -35,5 +35,10 @@
       { "name": { "tr": "Çeyrek (ziynet)", "en": "Quarter coin", "ar": "ربع ليرة" }, "gram": 1.75, "ayar": 22, "price": 5120 }
     ]
   },
-  "tags": ["kuyumcu", "altın", "fiyat", "gold", "ticker", "rtl"]
+  "tags": ["kuyumcu", "altın", "fiyat", "gold", "ticker", "rtl"],
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "desing/data"
+  }
 }

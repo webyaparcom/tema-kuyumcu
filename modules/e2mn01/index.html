@@ -172,7 +172,7 @@
   }
 
   .modulex-title-body {
-    color: --color--;
+    color: var(--mxe-title-text, var(--mx-site-bg, #ffffff)); /* 8 Kas 2026: bant zemini --mxe-333 (temada = site yazi rengi); yazi site ZEMIN rengi (her semada zit). Eski --color-- zeminle ayni 1:1 */
     width: var(--max);
     display: flex;
     justify-content: space-between;
@@ -234,6 +234,11 @@
     margin: 0;
     padding: 0;
     overflow-x: auto;
+  }
+
+  /* li yerleşime katılmaz: bağlantılar ul'nin flex öğesi kalır (geçerli HTML, görünüm aynı) */
+  .modulex-menu-list ul li {
+    display: contents;
   }
 
   .modulex-menu-list ul a {
@@ -300,6 +305,20 @@
     }
     .modulex-menulist ul a {
       font-size: 14px;
+    }
+  }
+
+  /* Dar ekranda arama kendi satırına iner: logo + düğmeler arasında 82 px kalıyordu, yer tutucu kesiliyordu (390 px, 2 Kas 2026).
+     Çift sınıf: site headbottom'unun .modulex-body-search{flex:1 1 0} ve .modulex-body{flex-wrap:nowrap} kurallarını yener. */
+  @media screen and (max-width: 640px) {
+    .modulex-body.modulex-body {
+      flex-wrap: wrap;
+    }
+
+    .modulex-body .modulex-body-search {
+      order: 3;
+      flex: 1 0 100%;
+      width: 100%;
     }
   }
 
@@ -391,6 +410,17 @@
   a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, [role="button"]:focus-visible, [tabindex]:focus-visible {
     outline: 2px solid currentColor;
     outline-offset: 2px;
+  }
+
+  /* 8 Kas 2026: logo gorseli acik zemin icin cizilmis (koyu yazi, saydam); koyu modda koyu header uzerinde kayboluyordu.
+     Koyu modda acik plaka; bilerek acik logolar (logo-acik) haric. */
+  @media (prefers-color-scheme: dark) {
+    .modulex-body-logo:not([src*="acik"]) {
+      background: #ffffff;
+      padding: 4px 10px;
+      border-radius: 8px;
+      box-sizing: content-box;
+    }
   }
 </style>
 <script>

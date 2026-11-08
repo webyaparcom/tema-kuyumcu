@@ -9,23 +9,23 @@ if (pagesettingjson) {
   for (var iterator of webmakerdata[pagesettingjson.path].data) {
     if (iterator.status == "play" && iterator.category == "") {
       if (page.path == iterator.path) {
-        backhtml += `<a class="modulex-menu-list-active" href="${wxLangInternalHref(
+        backhtml += `<li><a class="modulex-menu-list-active" href="${wxLangInternalHref(
           iterator.path,
-        )}">${iterator.name[json.lang]}</a>`;
+        )}">${iterator.name[json.lang]}</a></li>`;
         modulexmenulistactive = false;
       } else {
-        backhtml += `<a href="${wxLangInternalHref(iterator.pathnext || iterator.path)}">${
+        backhtml += `<li><a href="${wxLangInternalHref(iterator.pathnext || iterator.path)}">${
           iterator.name[json.lang]
-        }</a>`;
+        }</a></li>`;
       }
     }
   }
   if (modulexmenulistactive == true) {
     backhtml =
-      `<a class="modulex-menulistactive" href="${wxLangInternalHref('')}">@home@ </a>` +
+      `<li><a class="modulex-menulistactive" href="${wxLangInternalHref('')}">@home@ </a></li>` +
       backhtml;
   } else {
-    backhtml = `<a href="${wxLangInternalHref('')}">@home@ </a>` + backhtml;
+    backhtml = `<li><a href="${wxLangInternalHref('')}">@home@ </a></li>` + backhtml;
   }
   html = html.replace(new RegExp("{{html}}", "g"), backhtml);
 }

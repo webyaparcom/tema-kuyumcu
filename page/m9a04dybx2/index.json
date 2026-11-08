@@ -17,14 +17,16 @@
   },
   "path": "madalyon-kolye-22",
   "icon": "diamond",
-  "category": "y76mx2xwdv",
+  "category": "kolye",
   "status": "play",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "h71qv6"
+    ],
     "footer": []
   },
-  "index": 3,
+  "index": 4,
   "url": "",
   "text": {
     "tr": "<p>Sikke motifli madalyon; zincir dahildir.</p><ul><li>Ayar: 22 ayar</li><li>Ağırlık: 6,00 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.870,25 ₺</li><li>Altın bedeli: 17.222,00 ₺</li><li>İşçilik (ayrı): 840,00 ₺</li><li><strong>Toplam: 18.062,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
@@ -37,7 +39,7 @@
     "ar": "قلادة بميدالية · عيار 22"
   },
   "date": "2026-10-30T18:37:44.978Z",
-  "update": "2026-10-30T22:34:33.619Z",
+  "update": "2026-11-05T23:44:20.772Z",
   "desc": {
     "ayar": {
       "tr": "22 ayar",

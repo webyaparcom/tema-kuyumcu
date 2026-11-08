@@ -1,0 +1,68 @@
+{
+  "id": "xid1ltzpth",
+  "name": {
+    "tr": "Düz alyans · 22 ayar",
+    "en": "Classic wedding band · 22K",
+    "ar": "دبلة زفاف كلاسيكية · عيار 22"
+  },
+  "description": {
+    "tr": "Klasik düz model, konforlu iç yüzey; ölçü mağazada ücretsiz alınır.",
+    "en": "A classic plain band with a comfort-fit interior; free sizing at the boutique.",
+    "ar": "دبلة كلاسيكية سادة بسطح داخلي مريح؛ القياس مجاني في المتجر."
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "duz-alyans-22",
+  "icon": "diamond",
+  "category": "yuzuk",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "7u0d7m"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<p>Klasik düz model, konforlu iç yüzey; ölçü mağazada ücretsiz alınır.</p><ul><li>Ayar: 22 ayar</li><li>Ağırlık: 4,50 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 2.870,25 ₺</li><li>Altın bedeli: 12.916,00 ₺</li><li>İşçilik (ayrı): 540,00 ₺</li><li><strong>Toplam: 13.456,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
+    "en": "<p>A classic plain band with a comfort-fit interior; free sizing at the boutique.</p><ul><li>Karat: 22K</li><li>Weight: 4,50 g</li><li>Gold price per gram (for information only): 2.870,25 ₺</li><li>Gold value: 12.916,00 ₺</li><li>Making charge (separate): 540,00 ₺</li><li><strong>Total: 13.456,00 ₺</strong></li></ul><p>Prices are for information only and not binding; the exact price is set at the boutique after weighing.</p>",
+    "ar": "<p>دبلة كلاسيكية سادة بسطح داخلي مريح؛ القياس مجاني في المتجر.</p><ul><li>العيار: 22</li><li>الوزن: 4,50غ</li><li>سعر الغرام (للاطلاع فقط): 2.870,25 ₺</li><li>قيمة الذهب: 12.916,00 ₺</li><li>المصنعية (منفصلة): 540,00 ₺</li><li><strong>الإجمالي: 13.456,00 ₺</strong></li></ul><p>الأسعار للاطلاع فقط وغير ملزمة، ويُحدَّد السعر النهائي في المتجر بعد الوزن.</p>"
+  },
+  "title": {
+    "tr": "Düz alyans · 22 ayar",
+    "en": "Classic wedding band · 22K",
+    "ar": "دبلة زفاف كلاسيكية · عيار 22"
+  },
+  "date": "2026-11-05T22:24:09.206Z",
+  "update": "2026-11-05T23:44:20.796Z",
+  "desc": {
+    "ayar": {
+      "tr": "22 ayar",
+      "en": "22K",
+      "ar": "عيار 22"
+    },
+    "agirlik": {
+      "tr": "4,50 gr",
+      "en": "4,50 g",
+      "ar": "4,50 غ"
+    },
+    "iscilik": {
+      "tr": "540,00 ₺ (ayrı)",
+      "en": "540,00 TRY (separate)",
+      "ar": "540,00 ₺ (منفصلة)"
+    }
+  },
+  "price": 13456,
+  "stock": 25,
+  "stock_status": "in_stock",
+  "image": "/img/kuyumcu-yuzuk-olcusu.webp",
+  "badges": [
+    "new"
+  ],
+  "sku": "duz-alyans-22"
+}
