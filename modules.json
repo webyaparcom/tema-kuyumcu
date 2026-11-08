@@ -370,7 +370,8 @@
           "en": "Collections",
           "ar": "المجموعات"
         },
-        "btn2Url": "koleksiyonlar"
+        "btn2Url": "koleksiyonlar",
+        "stil": ""
       },
       "version": "1.1.0",
       "icon": "campaign",
@@ -454,6 +455,12 @@
           "tr": "Zümra Kuyum © 2026 — demo site.",
           "en": "Zumra Kuyum © 2026 — demo site.",
           "ar": "Zümra Kuyum © 2026 — موقع تجريبي."
+        },
+        "newsletter_url": "",
+        "newsletter_error": {
+          "tr": "Kayıt yapılamadı, lütfen daha sonra tekrar deneyin.",
+          "en": "Could not subscribe, please try again later.",
+          "ar": "تعذّر الاشتراك، يُرجى المحاولة مرة أخرى لاحقًا."
         }
       },
       "version": "2.0.0",
@@ -824,7 +831,8 @@
           "ar": "تواصل معنا"
         },
         "margin": "30px 0px 30px 0px",
-        "linkcolor": "var(--mx-site-primary, #2563eb)"
+        "linkcolor": "var(--mx-site-primary, #2563eb)",
+        "stil": ""
       },
       "version": "1.0.0",
       "icon": "contact_mail",
@@ -923,7 +931,8 @@
           "tr": "Hakkımızda",
           "en": "About us",
           "ar": "من نحن"
-        }
+        },
+        "stil": ""
       },
       "version": "1.1.0",
       "icon": "business",
@@ -3502,7 +3511,8 @@
           "ar": "متجرنا"
         },
         "btn2_url": "magazamiz",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -3521,17 +3531,17 @@
       "icon": "storefront",
       "category": "e-commerce",
       "desing": {
-        "color": "#333333",
-        "bgcolor": "#ffffff",
-        "pricecolor": "#e53935",
-        "oldpricecolor": "#999999",
-        "badgecolor": "#ffffff",
-        "badgebg-new": "#4caf50",
-        "badgebg-sale": "#ff9800",
-        "badgebg-soldout": "#9e9e9e",
-        "buttonbg": "#2196f3",
-        "buttoncolor": "#ffffff",
-        "bordercolor": "#e0e0e0",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "pricecolor": "var(--mx-site-text, #1b1b1b)",
+        "oldpricecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "badgecolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "badgebg-new": "var(--mx-site-primary, #2563eb)",
+        "badgebg-sale": "var(--mx-site-primary, #2563eb)",
+        "badgebg-soldout": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "buttonbg": "var(--mx-site-primary, #2563eb)",
+        "buttoncolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
         "currency": "₺",
         "showFilter": true,
         "descLength": 120,
@@ -3735,7 +3745,8 @@
           "tr": "Altın fiyatları",
           "en": "Gold prices",
           "ar": "أسعار الذهب"
-        }
+        },
+        "stil": ""
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
@@ -3791,7 +3802,8 @@
           "tr": "Yüzük ölçüsü",
           "en": "Ring size guide",
           "ar": "دليل مقاس الخاتم"
-        }
+        },
+        "stil": ""
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
@@ -4716,7 +4728,8 @@
           "tr": "Kişiye özel tasarım",
           "en": "Bespoke design",
           "ar": "تصميم حسب الطلب"
-        }
+        },
+        "stil": ""
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
@@ -4772,7 +4785,8 @@
           "tr": "İade ve değişim",
           "en": "Returns and exchange",
           "ar": "الاسترجاع والاستبدال"
-        }
+        },
+        "stil": ""
       },
       "category": "module",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. Ana sayfa şeridi ve temalar için varsayılan cok dilli metinler. İki kolonlu responsive tasarım, W2 animasyon ve icon desteği içerir.",
@@ -4790,14 +4804,14 @@
       "icon": "inventory_2",
       "category": "e-commerce",
       "desing": {
-        "color": "#333333",
-        "bgcolor": "#ffffff",
-        "pricecolor": "#e53935",
-        "oldpricecolor": "#999999",
-        "primarycolor": "#2196f3",
-        "bordercolor": "#e0e0e0",
-        "starcolor": "#ffc107",
-        "badgebg-sale": "#ff9800",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "pricecolor": "var(--mx-site-text, #1b1b1b)",
+        "oldpricecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "primarycolor": "var(--mx-site-primary, #2563eb)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "starcolor": "var(--mx-site-primary, #2563eb)",
+        "badgebg-sale": "var(--mx-site-primary, #2563eb)",
         "title": {
           "tr": "Ürün Detayı",
           "en": "Product Detail",
@@ -4881,6 +4895,1428 @@
       "path": "eticaret-urun-detay",
       "local": "body",
       "index": 34
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "18 ayar",
+              "en": "18K",
+              "ar": "عيار 18"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "3,10 gr",
+              "en": "3,10 g",
+              "ar": "3,10 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "558,00 ₺ (ayrı)",
+              "en": "558,00 TRY (separate)",
+              "ar": "558,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "642ume",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 35
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "18 ayar",
+              "en": "18K",
+              "ar": "عيار 18"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "3,60 gr",
+              "en": "3,60 g",
+              "ar": "3,60 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "612,00 ₺ (ayrı)",
+              "en": "612,00 TRY (separate)",
+              "ar": "612,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "dnq067",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 36
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "22 ayar",
+              "en": "22K",
+              "ar": "عيار 22"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "5,20 gr",
+              "en": "5,20 g",
+              "ar": "5,20 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "780,00 ₺ (ayrı)",
+              "en": "780,00 TRY (separate)",
+              "ar": "780,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "qy5opq",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 37
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "14 ayar",
+              "en": "14K",
+              "ar": "عيار 14"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "2,80 gr",
+              "en": "2,80 g",
+              "ar": "2,80 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "448,00 ₺ (ayrı)",
+              "en": "448,00 TRY (separate)",
+              "ar": "448,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "przjlc",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 38
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "22 ayar",
+              "en": "22K",
+              "ar": "عيار 22"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "6,00 gr",
+              "en": "6,00 g",
+              "ar": "6,00 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "840,00 ₺ (ayrı)",
+              "en": "840,00 TRY (separate)",
+              "ar": "840,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "h71qv6",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 39
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "22 ayar",
+              "en": "22K",
+              "ar": "عيار 22"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "12,50 gr",
+              "en": "12,50 g",
+              "ar": "12,50 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "1.500,00 ₺ (ayrı)",
+              "en": "1.500,00 TRY (separate)",
+              "ar": "1.500,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "o0rxn4",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 40
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "18 ayar",
+              "en": "18K",
+              "ar": "عيار 18"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "5,50 gr",
+              "en": "5,50 g",
+              "ar": "5,50 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "825,00 ₺ (ayrı)",
+              "en": "825,00 TRY (separate)",
+              "ar": "825,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "sldinr",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 41
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "14 ayar",
+              "en": "14K",
+              "ar": "عيار 14"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "3,20 gr",
+              "en": "3,20 g",
+              "ar": "3,20 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "512,00 ₺ (ayrı)",
+              "en": "512,00 TRY (separate)",
+              "ar": "512,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "o7y8eb",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 42
+    },
+    {
+      "name": "Teknik Özellik Tablosu (Sanayi)",
+      "description": "Sanayi ürün sayfası için teknik özellik tablosu: mobilde yatay kaydırma + yapışkan ilk sütun, TSV olarak panoya kopyalama, yazdırma, isteğe bağlı sütun başlığına tıklayınca sıralama (sortable) ve belge ikonlu indirme bağlantıları (katalog, CE/ISO, çizim). Tablo sunucuda üç dilde çizilir; sayılar tr-TR ayraçlı ve <bdi dir=ltr> içindedir.",
+      "version": "1.0.0",
+      "icon": "table_chart",
+      "category": "page-list",
+      "desing": {
+        "max": "1100px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #fff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "sortable": false,
+        "stickyFirst": true,
+        "showCopy": false,
+        "showPrint": false,
+        "title": {
+          "tr": "Ürün özellikleri",
+          "en": "Product details",
+          "ar": "تفاصيل المنتج"
+        },
+        "tableLabel": {
+          "tr": "Ürün özellik tablosu",
+          "en": "Product detail table",
+          "ar": "جدول تفاصيل المنتج"
+        },
+        "copyLabel": {
+          "tr": "Tabloyu kopyala",
+          "en": "Copy table",
+          "ar": "انسخ الجدول"
+        },
+        "copiedLabel": {
+          "tr": "Tablo panoya kopyalandı.",
+          "en": "Table copied to clipboard.",
+          "ar": "تم نسخ الجدول إلى الحافظة."
+        },
+        "copyFailLabel": {
+          "tr": "Kopyalanamadı; tabloyu elle seçip kopyalayın.",
+          "en": "Could not copy; please select and copy the table manually.",
+          "ar": "تعذّر النسخ؛ يُرجى تحديد الجدول ونسخه يدويًا."
+        },
+        "printLabel": {
+          "tr": "Yazdır",
+          "en": "Print",
+          "ar": "طباعة"
+        },
+        "sortHint": {
+          "tr": "Sıralamak için sütun başlığına tıklayın.",
+          "en": "Click a column header to sort.",
+          "ar": "انقر على عنوان العمود للترتيب."
+        },
+        "sortedAsc": {
+          "tr": "{col} sütununa göre artan sıralandı.",
+          "en": "Sorted by {col}, ascending.",
+          "ar": "تم الترتيب تصاعديًا حسب العمود {col}."
+        },
+        "sortedDesc": {
+          "tr": "{col} sütununa göre azalan sıralandı.",
+          "en": "Sorted by {col}, descending.",
+          "ar": "تم الترتيب تنازليًا حسب العمود {col}."
+        },
+        "sortBy": {
+          "tr": "Sırala: {col}",
+          "en": "Sort by {col}",
+          "ar": "رتّب حسب {col}"
+        },
+        "downloadsTitle": {
+          "tr": "Belgeler ve indirmeler",
+          "en": "Documents and downloads",
+          "ar": "المستندات والتنزيلات"
+        },
+        "emptyText": {
+          "tr": "Teknik özellik verisi bulunmuyor.",
+          "en": "No technical specification data available.",
+          "ar": "لا تتوفر بيانات للمواصفات الفنية."
+        }
+      },
+      "data": {
+        "columns": [
+          {
+            "key": "ozellik",
+            "label": {
+              "tr": "Özellik",
+              "en": "Feature",
+              "ar": "الخاصية"
+            }
+          },
+          {
+            "key": "deger",
+            "label": {
+              "tr": "Değer",
+              "en": "Value",
+              "ar": "القيمة"
+            }
+          }
+        ],
+        "rows": [
+          {
+            "ozellik": {
+              "tr": "Ayar",
+              "en": "Karat",
+              "ar": "العيار"
+            },
+            "deger": {
+              "tr": "22 ayar",
+              "en": "22K",
+              "ar": "عيار 22"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "Ağırlık",
+              "en": "Weight",
+              "ar": "الوزن"
+            },
+            "deger": {
+              "tr": "4,50 gr",
+              "en": "4,50 g",
+              "ar": "4,50 غ"
+            }
+          },
+          {
+            "ozellik": {
+              "tr": "İşçilik",
+              "en": "Making charge",
+              "ar": "المصنعية"
+            },
+            "deger": {
+              "tr": "540,00 ₺ (ayrı)",
+              "en": "540,00 TRY (separate)",
+              "ar": "540,00 ₺ (منفصلة)"
+            }
+          }
+        ],
+        "downloads": []
+      },
+      "tags": [
+        "sanayi",
+        "teknik",
+        "tablo",
+        "industrial",
+        "specifications",
+        "rtl"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "7u0d7m",
+      "path": "teknik-tablo",
+      "local": "body",
+      "index": 43
     }
   ]
 }

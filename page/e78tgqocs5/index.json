@@ -17,14 +17,16 @@
   },
   "path": "damla-kupe-14",
   "icon": "diamond",
-  "category": "xm0md6h1e1",
+  "category": "kupe",
   "status": "play",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "o7y8eb"
+    ],
     "footer": []
   },
-  "index": 0,
+  "index": 1,
   "url": "",
   "text": {
     "tr": "<p>Hafif, günlük ve davet kullanımına uygun.</p><ul><li>Ayar: 14 ayar</li><li>Ağırlık: 3,20 gr</li><li>Gram fiyatı (bilgilendirme amaçlı): 1.830,00 ₺</li><li>Altın bedeli: 5.856,00 ₺</li><li>İşçilik (ayrı): 512,00 ₺</li><li><strong>Toplam: 6.368,00 ₺</strong></li></ul><p>Fiyatlar bilgilendirme amaçlıdır, bağlayıcı değildir; kesin bedel mağazada tartım sonrası belirlenir.</p>",
@@ -37,7 +39,7 @@
     "ar": "أقراط قطرة · عيار 14"
   },
   "date": "2026-10-30T18:37:45.037Z",
-  "update": "2026-10-30T22:34:33.637Z",
+  "update": "2026-11-05T23:44:20.790Z",
   "desc": {
     "ayar": {
       "tr": "14 ayar",
