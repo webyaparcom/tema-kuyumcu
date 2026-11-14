@@ -52,11 +52,11 @@
       "desing": {
         "logo": "logo.png",
         "color": "var(--mx-site-text, #1b1b1b)",
-        "colorhover": "var(--mx-site-primary-contrast, #ffffff)",
+        "colorhover": "var(--mx-site-primary, #2563eb)",
         "height": "78px",
         "urlsepet": "sepetim",
         "bgcolor": "var(--mx-site-bg, #ffffff)",
-        "bgcolorhover": "var(--mx-site-primary, #7A5C12)",
+        "bgcolorhover": "var(--mx-site-surface-2, #f1f1ee)",
         "searchPlaceholder": {
           "tr": "Aradığınız ürün, kategori veya markalar burada...",
           "en": "Search products, categories or brands...",
